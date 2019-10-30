@@ -1,6 +1,6 @@
 {
   "name": "react-decoy",
-  "version": "1.0.0-pre",
+  "version": "1.0.0",
   "license": "Unlicense",
   "author": "Colin Gourlay",
   "main": "dist/index.js",
