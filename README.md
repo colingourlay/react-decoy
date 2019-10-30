@@ -56,7 +56,7 @@ ReactDOM.render(<App />, document.getElementById('root'));
 ```
 
 <p style="text-align: right">
-  <a href="https://codesandbox.io/s/react-decoy-getting-started-782wc"><img alt="Edit the previous code example on CodeSandbox" src="https://codesandbox.io/static/img/play-codesandbox.svg" height="33"></a>
+  <a href="https://codesandbox.io/s/react-decoy-getting-started-00t6m"><img alt="Edit the previous code example on CodeSandbox" src="https://codesandbox.io/static/img/play-codesandbox.svg" height="33"></a>
 </p>
 
 ## About the project
