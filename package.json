@@ -1,8 +1,22 @@
 {
   "name": "react-decoy",
   "version": "1.0.0",
+  "keywords": [
+    "react",
+    "dom",
+    "change",
+    "recover",
+    "revert",
+    "undo"
+  ],
   "license": "Unlicense",
-  "author": "Colin Gourlay",
+  "contributors": [
+    "Colin Gourlay <colin@colin-gourlay.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colingourlay/react-decoy.git"
+  },
   "main": "dist/index.js",
   "module": "dist/react-decoy.esm.js",
   "typings": "dist/index.d.ts",
